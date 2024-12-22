@@ -5,3 +5,4 @@
    ```
 3. Run `npm install` or `yarn install`
 4. Run `npm run dev` or `yarn dev`
+5. Run `npm run test` or `yarn test`
