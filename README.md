@@ -6,3 +6,7 @@
 3. Run `npm install` or `yarn install`
 4. Run `npm run dev` or `yarn dev`
 5. Run `npm run test` or `yarn test`
+
+## Video Demo
+
+There's a video demo of the app called 'showdown.mov'.
